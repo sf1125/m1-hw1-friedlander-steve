@@ -8,17 +8,6 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
     display:block;
 }
 
-
-.site {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-}
-
-.site-content {
-	flex: 1;
-}
-
 body {
 	font-family: pt-sans-pro, sans-serif;
 	font-weight: 400;
